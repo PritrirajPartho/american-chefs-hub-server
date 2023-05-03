@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Gordon Ramsay",
-        "img": "https://example.com/gordon-ramsay.jpg",
+        "img": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-holding-rolling-pin-isolated-white-wall_141793-101134.jpg?w=740&t=st=1683079875~exp=1683080475~hmac=98e9e518fede0ebb6ea10e7c2aed4c7248a071d665b7bfba5ccf3bd4a4ac2438",
         "experience": "30+ years",
         "recipes": [
             "Beef Wellington",
@@ -17,7 +17,7 @@
     {
         "id": 2,
         "name": "Bobby Flay",
-        "img": "https://example.com/bobby-flay.jpg",
+        "img": "https://img.freepik.com/free-photo/serious-young-caucasian-male-cook-chef-uniform-cap-standing-with-closed-posture-looking-camera-isolated-orange-wall_141793-113837.jpg?w=740&t=st=1683079974~exp=1683080574~hmac=e51a17c6311fa667c66519108be3d06431f407273a069e6a090012b1ede6fdb1",
         "experience": "25+ years",
         "recipes": [
             "Grilled Steak",
@@ -32,7 +32,7 @@
     {
         "id": 3,
         "name": "Ina Garten",
-        "img": "https://example.com/ina-garten.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8XbinrHlneWv5gecJxzKI43EkjBYcIL3VYQ&usqp=CAU",
         "experience": "20+ years",
         "recipes": [
             "Roast Chicken",
@@ -47,7 +47,7 @@
     {
         "id": 4,
         "name": "Alice Waters",
-        "img": "https://example.com/alice-waters.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQury3l2LyrSaXWNWn8D8nE9F3eKgwdpiAT-g&usqp=CAU",
         "experience": "40+ years",
         "recipes": [
             "Grilled Vegetables",
@@ -62,7 +62,7 @@
     {
         "id": 5,
         "name": "Wolfgang Puck",
-        "img": "https://example.com/wolfgang-puck.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7NNPf-uMWw_PIuMCERocIvRE03qquqKWjA&usqp=CAU",
         "experience": "40+ years",
         "recipes": [
             "California Pizza",
@@ -77,7 +77,7 @@
     {
         "id": 6,
         "name": "Anthony Bourdain",
-        "img": "https://example.com/anthony-bourdain.jpg",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuD346yZiLHWH0wRkIEw4Zzsgl4SgJ4LE96A&usqp=CAU",
         "experience": "30+ years",
         "recipes": [
           "Banh Mi Sandwich",
