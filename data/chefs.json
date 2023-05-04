@@ -17,6 +17,7 @@
             {
                 "id": 1,
                 "name": "Spaghetti Carbonara",
+                "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUEoQ2-VB6pWJ6VbPqRfWgSI1o5DgG-RBpaOmej0VsEWCXbQTQ-gdm0He506ioZlv-Ps&usqp=CAU",
                 "ingredients": [
                     "spaghetti",
                     "bacon",
@@ -30,6 +31,7 @@
             {
                 "id": 2,
                 "name": "Beef Bourguignon",
+                "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUEoQ2-VB6pWJ6VbPqRfWgSI1o5DgG-RBpaOmej0VsEWCXbQTQ-gdm0He506ioZlv-Ps&usqp=CAU",
                 "ingredients": [
                     "beef chuck roast",
                     "carrots",
@@ -46,6 +48,7 @@
             {
                 "id": 4,
                 "name": "Chocolate Cake",
+                "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUEoQ2-VB6pWJ6VbPqRfWgSI1o5DgG-RBpaOmej0VsEWCXbQTQ-gdm0He506ioZlv-Ps&usqp=CAU",
                 "ingredients": [
                   "butter",
                   "sugar",
