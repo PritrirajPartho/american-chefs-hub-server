@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+        ],
+        "method": "1. Cook spaghetti according to package directions. \n2. Cook bacon in a large skillet until crispy. \n3. In a bowl, whisk together eggs and parmesan cheese. \n4. Drain spaghetti and add it to the skillet with the bacon. Toss to combine. \n5. Remove skillet from heat and pour in the egg mixture, tossing quickly to coat the spaghetti. \n6. Serve hot with black pepper.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Beef Bourguignon",
+        "ingredients": [
+            "beef chuck roast",
+            "carrots",
+            "onions",
+            "red wine",
+            "beef broth",
+            "thyme",
+            "bacon",
+            "garlic"
+        ],
+        "method": "1. Preheat oven to 325°F. \n2. Cut beef into 2-inch pieces and season with salt and pepper. \n3. In a large Dutch oven, cook bacon over medium heat until crispy. \n4. Add beef to the Dutch oven and brown on all sides. Remove beef from Dutch oven and set aside. \n5. Add carrots and onions to the Dutch oven and cook until onions are translucent. \n6. Add garlic and cook for another minute. \n7. Pour in red wine and beef broth, and add thyme. \n8. Return beef to the Dutch oven and bring to a simmer. \n9. Cover and transfer to oven. Bake for 2-3 hours, or until beef is tender. \n10. Serve hot.",
+        "rating": 4.7
+    },
+    {
+        "id": 4,
+        "name": "Chocolate Cake",
+        "ingredients": [
+          "butter",
+          "sugar",
+          "eggs",
+          "flour",
+          "cocoa powder",
+          "baking soda",
+          "salt",
+          "buttermilk"
+        ],
+        "method": "1. Preheat oven to 350°F. \n2. In a bowl, cream butter and sugar until light and fluffy"
+    }
+        
+]

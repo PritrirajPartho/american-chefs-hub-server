@@ -12,7 +12,55 @@
         ],
         "likes": 50000,
         "view": 1000000,
-        "bio": "Gordon Ramsay is a British chef and restaurateur who has built a global empire of restaurants and TV shows. He is known for his fiery personality and tough love approach to cooking, which has earned him both fans and critics."
+        "bio": "Gordon Ramsay is a British chef and restaurateur who has built a global empire of restaurants and TV shows. He is known for his fiery personality and tough love approach to cooking, which has earned him both fans and critics.",
+        "works": [
+            {
+                "id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package directions. \n2. Cook bacon in a large skillet until crispy. \n3. In a bowl, whisk together eggs and parmesan cheese. \n4. Drain spaghetti and add it to the skillet with the bacon. Toss to combine. \n5. Remove skillet from heat and pour in the egg mixture, tossing quickly to coat the spaghetti. \n6. Serve hot with black pepper.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                    "beef chuck roast",
+                    "carrots",
+                    "onions",
+                    "red wine",
+                    "beef broth",
+                    "thyme",
+                    "bacon",
+                    "garlic"
+                ],
+                "method": "1. Preheat oven to 325°F. \n2. Cut beef into 2-inch pieces and season with salt and pepper. \n3. In a large Dutch oven, cook bacon over medium heat until crispy. \n4. Add beef to the Dutch oven and brown on all sides. Remove beef from Dutch oven and set aside. \n5. Add carrots and onions to the Dutch oven and cook until onions are translucent. \n6. Add garlic and cook for another minute. \n7. Pour in red wine and beef broth, and add thyme. \n8. Return beef to the Dutch oven and bring to a simmer. \n9. Cover and transfer to oven. Bake for 2-3 hours, or until beef is tender. \n10. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "id": 4,
+                "name": "Chocolate Cake",
+                "ingredients": [
+                  "butter",
+                  "sugar",
+                  "eggs",
+                  "flour",
+                  "cocoa powder",
+                  "baking soda",
+                  "salt",
+                  "buttermilk"
+                ],
+                "method": "1. Preheat oven to 350°F. \n2. In a bowl, cream butter and sugar until light and fluffy"
+            }
+                
+        ]
+        
     },
     {
         "id": 2,
@@ -27,7 +75,54 @@
         ],
         "likes": 35000,
         "view": 750000,
-        "bio": "Bobby Flay is an American celebrity chef and restaurateur. He is known for his bold and spicy Southwestern-style cuisine, as well as his appearances on numerous cooking shows and competitions."
+        "bio": "Bobby Flay is an American celebrity chef and restaurateur. He is known for his bold and spicy Southwestern-style cuisine, as well as his appearances on numerous cooking shows and competitions.",
+        "works": [
+            {
+                "id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package directions. \n2. Cook bacon in a large skillet until crispy. \n3. In a bowl, whisk together eggs and parmesan cheese. \n4. Drain spaghetti and add it to the skillet with the bacon. Toss to combine. \n5. Remove skillet from heat and pour in the egg mixture, tossing quickly to coat the spaghetti. \n6. Serve hot with black pepper.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                    "beef chuck roast",
+                    "carrots",
+                    "onions",
+                    "red wine",
+                    "beef broth",
+                    "thyme",
+                    "bacon",
+                    "garlic"
+                ],
+                "method": "1. Preheat oven to 325°F. \n2. Cut beef into 2-inch pieces and season with salt and pepper. \n3. In a large Dutch oven, cook bacon over medium heat until crispy. \n4. Add beef to the Dutch oven and brown on all sides. Remove beef from Dutch oven and set aside. \n5. Add carrots and onions to the Dutch oven and cook until onions are translucent. \n6. Add garlic and cook for another minute. \n7. Pour in red wine and beef broth, and add thyme. \n8. Return beef to the Dutch oven and bring to a simmer. \n9. Cover and transfer to oven. Bake for 2-3 hours, or until beef is tender. \n10. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "id": 4,
+                "name": "Chocolate Cake",
+                "ingredients": [
+                  "butter",
+                  "sugar",
+                  "eggs",
+                  "flour",
+                  "cocoa powder",
+                  "baking soda",
+                  "salt",
+                  "buttermilk"
+                ],
+                "method": "1. Preheat oven to 350°F. \n2. In a bowl, cream butter and sugar until light and fluffy"
+            }
+                
+        ]
     },
     {
         "id": 3,
@@ -42,7 +137,54 @@
         ],
         "likes": 25000,
         "view": 500000,
-        "bio": "Ina Garten is an American chef and cookbook author, best known for her show 'Barefoot Contessa' and her emphasis on simple, elegant recipes made with fresh, high-quality ingredients."
+        "bio": "Ina Garten is an American chef and cookbook author, best known for her show 'Barefoot Contessa' and her emphasis on simple, elegant recipes made with fresh, high-quality ingredients.",
+        "works": [
+            {
+                "id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package directions. \n2. Cook bacon in a large skillet until crispy. \n3. In a bowl, whisk together eggs and parmesan cheese. \n4. Drain spaghetti and add it to the skillet with the bacon. Toss to combine. \n5. Remove skillet from heat and pour in the egg mixture, tossing quickly to coat the spaghetti. \n6. Serve hot with black pepper.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                    "beef chuck roast",
+                    "carrots",
+                    "onions",
+                    "red wine",
+                    "beef broth",
+                    "thyme",
+                    "bacon",
+                    "garlic"
+                ],
+                "method": "1. Preheat oven to 325°F. \n2. Cut beef into 2-inch pieces and season with salt and pepper. \n3. In a large Dutch oven, cook bacon over medium heat until crispy. \n4. Add beef to the Dutch oven and brown on all sides. Remove beef from Dutch oven and set aside. \n5. Add carrots and onions to the Dutch oven and cook until onions are translucent. \n6. Add garlic and cook for another minute. \n7. Pour in red wine and beef broth, and add thyme. \n8. Return beef to the Dutch oven and bring to a simmer. \n9. Cover and transfer to oven. Bake for 2-3 hours, or until beef is tender. \n10. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "id": 4,
+                "name": "Chocolate Cake",
+                "ingredients": [
+                  "butter",
+                  "sugar",
+                  "eggs",
+                  "flour",
+                  "cocoa powder",
+                  "baking soda",
+                  "salt",
+                  "buttermilk"
+                ],
+                "method": "1. Preheat oven to 350°F. \n2. In a bowl, cream butter and sugar until light and fluffy"
+            }
+                
+        ]
     },
     {
         "id": 4,
@@ -57,7 +199,54 @@
         ],
         "likes": 30000,
         "view": 600000,
-        "bio": "Alice Waters is an American chef, author, and activist, who is known for her focus on using local, organic, and sustainable ingredients. She is the founder of the renowned restaurant Chez Panisse in Berkeley, California."
+        "bio": "Alice Waters is an American chef, author, and activist, who is known for her focus on using local, organic, and sustainable ingredients. She is the founder of the renowned restaurant Chez Panisse in Berkeley, California.",
+        "works": [
+            {
+                "id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package directions. \n2. Cook bacon in a large skillet until crispy. \n3. In a bowl, whisk together eggs and parmesan cheese. \n4. Drain spaghetti and add it to the skillet with the bacon. Toss to combine. \n5. Remove skillet from heat and pour in the egg mixture, tossing quickly to coat the spaghetti. \n6. Serve hot with black pepper.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                    "beef chuck roast",
+                    "carrots",
+                    "onions",
+                    "red wine",
+                    "beef broth",
+                    "thyme",
+                    "bacon",
+                    "garlic"
+                ],
+                "method": "1. Preheat oven to 325°F. \n2. Cut beef into 2-inch pieces and season with salt and pepper. \n3. In a large Dutch oven, cook bacon over medium heat until crispy. \n4. Add beef to the Dutch oven and brown on all sides. Remove beef from Dutch oven and set aside. \n5. Add carrots and onions to the Dutch oven and cook until onions are translucent. \n6. Add garlic and cook for another minute. \n7. Pour in red wine and beef broth, and add thyme. \n8. Return beef to the Dutch oven and bring to a simmer. \n9. Cover and transfer to oven. Bake for 2-3 hours, or until beef is tender. \n10. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "id": 4,
+                "name": "Chocolate Cake",
+                "ingredients": [
+                  "butter",
+                  "sugar",
+                  "eggs",
+                  "flour",
+                  "cocoa powder",
+                  "baking soda",
+                  "salt",
+                  "buttermilk"
+                ],
+                "method": "1. Preheat oven to 350°F. \n2. In a bowl, cream butter and sugar until light and fluffy"
+            }
+                
+        ]
     },
     {
         "id": 5,
@@ -72,7 +261,54 @@
         ],
         "likes": 60000,
         "view": 1100000,
-        "bio": "Wolfgang Puck is an Austrian-American chef and restaurateur, who is known for his fusion cuisine that combines European and Asian flavors with American ingredients. He is the owner"
+        "bio": "Wolfgang Puck is an Austrian-American chef and restaurateur, who is known for his fusion cuisine that combines European and Asian flavors with American ingredients. He is the owner",
+        "works": [
+            {
+                "id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package directions. \n2. Cook bacon in a large skillet until crispy. \n3. In a bowl, whisk together eggs and parmesan cheese. \n4. Drain spaghetti and add it to the skillet with the bacon. Toss to combine. \n5. Remove skillet from heat and pour in the egg mixture, tossing quickly to coat the spaghetti. \n6. Serve hot with black pepper.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                    "beef chuck roast",
+                    "carrots",
+                    "onions",
+                    "red wine",
+                    "beef broth",
+                    "thyme",
+                    "bacon",
+                    "garlic"
+                ],
+                "method": "1. Preheat oven to 325°F. \n2. Cut beef into 2-inch pieces and season with salt and pepper. \n3. In a large Dutch oven, cook bacon over medium heat until crispy. \n4. Add beef to the Dutch oven and brown on all sides. Remove beef from Dutch oven and set aside. \n5. Add carrots and onions to the Dutch oven and cook until onions are translucent. \n6. Add garlic and cook for another minute. \n7. Pour in red wine and beef broth, and add thyme. \n8. Return beef to the Dutch oven and bring to a simmer. \n9. Cover and transfer to oven. Bake for 2-3 hours, or until beef is tender. \n10. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "id": 4,
+                "name": "Chocolate Cake",
+                "ingredients": [
+                  "butter",
+                  "sugar",
+                  "eggs",
+                  "flour",
+                  "cocoa powder",
+                  "baking soda",
+                  "salt",
+                  "buttermilk"
+                ],
+                "method": "1. Preheat oven to 350°F. \n2. In a bowl, cream butter and sugar until light and fluffy"
+            }
+                
+        ]
     },
     {
         "id": 6,
@@ -87,6 +323,53 @@
         ],
         "likes": 55000,
         "view": 1200000,
-        "bio": "Anthony Bourdain was an American chef, author, and TV personality, who was known for his adventurous spirit and love of exploring different cultures through food. He hosted several popular travel and food shows, including 'No Reservations' and 'Parts Unknown'."
+        "bio": "Anthony Bourdain was an American chef, author, and TV personality, who was known for his adventurous spirit and love of exploring different cultures through food. He hosted several popular travel and food shows, including 'No Reservations' and 'Parts Unknown'.",
+        "works": [
+            {
+                "id": 1,
+                "name": "Spaghetti Carbonara",
+                "ingredients": [
+                    "spaghetti",
+                    "bacon",
+                    "eggs",
+                    "parmesan cheese",
+                    "black pepper"
+                ],
+                "method": "1. Cook spaghetti according to package directions. \n2. Cook bacon in a large skillet until crispy. \n3. In a bowl, whisk together eggs and parmesan cheese. \n4. Drain spaghetti and add it to the skillet with the bacon. Toss to combine. \n5. Remove skillet from heat and pour in the egg mixture, tossing quickly to coat the spaghetti. \n6. Serve hot with black pepper.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                    "beef chuck roast",
+                    "carrots",
+                    "onions",
+                    "red wine",
+                    "beef broth",
+                    "thyme",
+                    "bacon",
+                    "garlic"
+                ],
+                "method": "1. Preheat oven to 325°F. \n2. Cut beef into 2-inch pieces and season with salt and pepper. \n3. In a large Dutch oven, cook bacon over medium heat until crispy. \n4. Add beef to the Dutch oven and brown on all sides. Remove beef from Dutch oven and set aside. \n5. Add carrots and onions to the Dutch oven and cook until onions are translucent. \n6. Add garlic and cook for another minute. \n7. Pour in red wine and beef broth, and add thyme. \n8. Return beef to the Dutch oven and bring to a simmer. \n9. Cover and transfer to oven. Bake for 2-3 hours, or until beef is tender. \n10. Serve hot.",
+                "rating": 4.7
+            },
+            {
+                "id": 4,
+                "name": "Chocolate Cake",
+                "ingredients": [
+                  "butter",
+                  "sugar",
+                  "eggs",
+                  "flour",
+                  "cocoa powder",
+                  "baking soda",
+                  "salt",
+                  "buttermilk"
+                ],
+                "method": "1. Preheat oven to 350°F. \n2. In a bowl, cream butter and sugar until light and fluffy"
+            }
+                
+        ]
       }      
 ]
